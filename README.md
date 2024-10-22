@@ -1,2 +1,2 @@
-# randonm-number-game
+# random-number-game
 A Simple Random Number Game!
